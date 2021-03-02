@@ -1,0 +1,11 @@
+C:\workspace\DigitalInnovationOne\bin\Debug\netcoreapp3.0\DigitalInnovationOne.exe
+C:\workspace\DigitalInnovationOne\bin\Debug\netcoreapp3.0\DigitalInnovationOne.deps.json
+C:\workspace\DigitalInnovationOne\bin\Debug\netcoreapp3.0\DigitalInnovationOne.runtimeconfig.json
+C:\workspace\DigitalInnovationOne\bin\Debug\netcoreapp3.0\DigitalInnovationOne.runtimeconfig.dev.json
+C:\workspace\DigitalInnovationOne\bin\Debug\netcoreapp3.0\DigitalInnovationOne.dll
+C:\workspace\DigitalInnovationOne\bin\Debug\netcoreapp3.0\DigitalInnovationOne.pdb
+C:\workspace\DigitalInnovationOne\obj\Debug\netcoreapp3.0\DigitalInnovationOne.csprojAssemblyReference.cache
+C:\workspace\DigitalInnovationOne\obj\Debug\netcoreapp3.0\DigitalInnovationOne.AssemblyInfoInputs.cache
+C:\workspace\DigitalInnovationOne\obj\Debug\netcoreapp3.0\DigitalInnovationOne.AssemblyInfo.cs
+C:\workspace\DigitalInnovationOne\obj\Debug\netcoreapp3.0\DigitalInnovationOne.dll
+C:\workspace\DigitalInnovationOne\obj\Debug\netcoreapp3.0\DigitalInnovationOne.pdb
